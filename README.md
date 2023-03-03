@@ -1,1 +1,3 @@
-# Titanic_Logistical_Regression
+# Titanic Logistical Regression
+
+documentatin on the source code file
